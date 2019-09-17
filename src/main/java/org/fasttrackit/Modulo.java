@@ -9,4 +9,7 @@ public class Modulo {
 
 
     }
+    public double CalculationM(int x){
+        return CalculationM(x);
+    }
 }

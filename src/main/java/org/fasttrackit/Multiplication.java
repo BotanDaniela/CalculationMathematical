@@ -8,4 +8,7 @@ public class Multiplication {
 
 
     }
+    public double CalculationM(int x){
+        return CalculationM(x);
+    }
 }

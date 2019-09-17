@@ -7,4 +7,7 @@ public class Division {
         return x / y;
 
     }
+    public double CalculationD(int x){
+        return CalculationD(x);
+    }
 }

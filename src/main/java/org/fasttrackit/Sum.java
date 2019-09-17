@@ -9,6 +9,9 @@ public class Sum {
 
 
     }
+    public double CalculationSum(int x){
+        return CalculationSum(x);
+    }
 
 
 }
