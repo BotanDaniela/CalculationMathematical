@@ -10,7 +10,7 @@ public class Reduction {
 
     }
     public double CalculationR(int x){
-        return CalculationR(x);
+        return CalculationR(8,9);
     }
 
 

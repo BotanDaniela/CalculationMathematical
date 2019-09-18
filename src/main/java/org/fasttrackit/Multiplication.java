@@ -9,6 +9,6 @@ public class Multiplication {
 
     }
     public double CalculationM(int x){
-        return CalculationM(x);
+        return CalculationM(8,9);
     }
 }

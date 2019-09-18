@@ -10,7 +10,7 @@ public class Sum {
 
     }
     public double CalculationSum(int x){
-        return CalculationSum(x);
+        return CalculationSum(8,9);
     }
 
 

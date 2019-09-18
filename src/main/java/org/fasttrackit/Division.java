@@ -8,6 +8,6 @@ public class Division {
 
     }
     public double CalculationD(int x){
-        return CalculationD(x);
+        return CalculationD(8,9);
     }
 }
